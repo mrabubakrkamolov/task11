@@ -15,15 +15,15 @@ function App() {
 
       <StudentProfileCard
         name="ABDULKHAKIMOV BISYORBEK"
-        studentId="CLASSMATE_ID_1"
+        studentId="202537259"
         major="Computer Science"
         year={2}
         gpa={4.2}
       />
 
       <StudentProfileCard
-        name="CLASSMATE NAME 2"
-        studentId="CLASSMATE_ID_2"
+        name="XUSHNUDBEK"
+        studentId="202537260"
         major="Computer Science"
         year={3}
         gpa={4.5}

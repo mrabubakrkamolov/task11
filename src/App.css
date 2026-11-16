@@ -48,7 +48,7 @@
 
   .vite {
     z-index: 0;
-    top: 107px;
+    top: 110px;
     height: 26px;
     width: auto;
     transform: perspective(2000px) rotateZ(300deg) rotateX(40deg) rotateY(39deg)
@@ -125,7 +125,7 @@
     align-items: center;
     gap: 8px;
     text-decoration: none;
-    transition: box-shadow 0.3s;
+    transition: box-shadow 0.4s;
 
     &:hover {
       box-shadow: var(--shadow);

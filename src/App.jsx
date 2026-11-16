@@ -27,6 +27,14 @@ function App() {
         major="Computer Science"
         year={3}
         gpa={4.5}
+      />      
+      
+      <StudentProfileCard
+        name="NODIRBEK ORZIKULOV"
+        studentId="2025223412"
+        major="Bussiness"
+        year={2}
+        gpa={4.0}
       />
     </div>
   );
